@@ -6,8 +6,6 @@ import os
 import json
 import queue
 import vosk
-import google.generativeai as genai
-
 
 
 # Initialize speech engine
